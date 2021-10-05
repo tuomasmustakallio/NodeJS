@@ -1,0 +1,19 @@
+{
+  "name": "coursework",
+  "version": "1.0.0",
+  "description": "SDS-Back-End: Node crash course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "git repository": "https://github.com/tuomasmustakallio/SDS-Back-end",
+  "author": "Tuomas Mustakallio",
+  "license": "ISC",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
